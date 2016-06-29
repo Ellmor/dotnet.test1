@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nezi2/.nuget/packages"
+    ]
+  }
+}
